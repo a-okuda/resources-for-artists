@@ -1,0 +1,23 @@
+# Site settings
+title: 舞台芸術支援情報一覧
+author:
+  # name: username
+  email: artshien2020@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  舞台芸術関係者と支援者のための情報サイト
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://help-performing-arts.info" # the base hostname & protocol for your site
+# twitter_username: username
+# github_username: username
+
+google_analytics: UA-164762437-1
+
+plugins:
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="home">
+	<div>
+    <p>このサイトは、新型コロナウイルス感染症の感染拡大防止策の影響を受けて経済的な打撃を受けた舞台芸術関係者（主に個人・中小の団体）が利用できる支援等の情報と、また彼らを支援したいと思う人々のための情報をまとめたものです。</p>
+
+  </div>
+  <h2 class="page-heading">News</h2>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
