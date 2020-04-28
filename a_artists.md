@@ -169,7 +169,7 @@ permalink: /artists/
 * [“SaveArts”プロジェクト](https://readyfor.jp/projects/SaveArts/announcements/129746?fbclid=IwAR0Yq8NUdIcmyRkIYKR1odIn1N8DLA-o8ZbLEyCz53piaPe7_RkyZG_FcR0)
 	* 新型コロナウイルスにより2020年2月～5月の範囲で公演が中止となった上演団体・個人が対象。
 	* 若手医師・医療福祉・まちづくり関係者らが立ち上げ。
-	*上演規模100万円から500万円で劇場費など実際の損失が発生したイベントが対象。
+	* 上演規模100万円から500万円で劇場費など実際の損失が発生したイベントが対象。
 	* 平田オリザ氏（演劇）と桜田ゆみ氏（歌劇/音楽）を通じて、支援団体・個人の確定後に各団体・個人へ支援金が届く。
 	* 応募期間は2020年6月5日まで。
 * [Readyfor 新型コロナウイルスによる中止イベント支援プログラム](https://readyfor.jp/pp/covid-19?fbclid=IwAR0vO4SOM1ahOHniS7BsQwh98uZoeL6FJGV3Fj0XpojTR5zaYhip-5OxWp0)
