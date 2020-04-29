@@ -65,7 +65,7 @@ permalink: /artists/
 	* フリーランスと団体が利用可能。
 	* これから販売促進や設備投資への支出がある事業主向け補助金。
 	* 使った費用の2/3かつ50万円まで補助。運転資金・設備資金にのみ利用可能。
-	* 住んでいる地域によっては、下の全国商工会連合会が管轄。
+	* 住んでいる地域によっては、上の日本商工会議所が管轄。
 	* 第2回（次回）締切2020年6月5日、第3回締切10月2日、第4回（最終回）締切2021年2月5日。
 * [商工組合中央金庫 危機対応融資](https://www.shokochukin.co.jp/disaster/pdf/corona_brochure.pdf?yclid=YJAD.1588005550.BEDZSK.dcq0cdgTlmZ8cTOoCOxzJuAWPUkpY4B1lSr4_rMjVEZHvD9fusLKPLRvN.kHm4ZGIZJ1eF80-)
 	* 中小企業が利用可能。
