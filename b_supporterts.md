@@ -16,18 +16,30 @@ permalink: /supporters/
 	* コロナ禍で危機的状況に陥っている芸術家を支援。
 	* 若手医師・医療福祉・まちづくり関係者を中心に立ち上げ。
 	* 演劇部門は平田オリザ氏、歌劇/音楽劇部門は桜田ゆみ氏を通じて支援が届けられる仕組み。
+	* 3000円から支援が可能。
 	* 2020年5月29日まで。
 * [舞台芸術を未来に繋ぐ基金＝Mirai Performing Arts Fund](https://motion-gallery.net/projects/butainomirai)
 	* 活動停止を余儀なくされた舞台芸術に携わる出演者・クリエーター・スタッフを支援。
-	* conSept合同会社が公益基金への寄付を呼びかけ。
 	* 今後の活動に必要な資金を助成。
+	* conSept合同会社が公益基金への寄付を呼びかけ。
 	* 賛同人は演出家・板垣恭一氏、俳優・伊礼彼方氏ら。
+	*  3000円から支援が可能。
 	* 2020年8月25日まで。
-* [小劇場支援プロジェクト【ENGEKI HEROES】](https://note.com/stage_ch/n/nb0fc0d87764c?fbclid=IwAR0rLP7esN6uxoGG3lFAf_g-IypAnB67vA3TqphbHTClgtio7vWFq4oNkuY)
-	* 小劇場（キャパ300名以下）を支援。
-	* 演劇の動画配信チャンネル「ステージチャンネル」が立ち上げ。
-	* 当ページは立ち上げ前の準備ページで、これから実施予定。
-	* プロジェクト賛同人も募集中。
+* [小劇場エイド基金](https://motion-gallery.net/projects/shogekijo-aid?fbclid=IwAR2v4YVK3WYIhOrAySLHIPydeoQZ-JstRJZ04tBhmRFDHqLoT2EdxDHXawQ)
+	* 「小劇場支援プロジェクト【ENGEKI HEROES】」が情報をアップデート。
+	* 日本全国の38の小劇場（2020年5月1日現在）を支援。
+	* ステージチャンネル、サンモールスタジオ、MOTION GALLERY代表を含むプロデューサー有志で立ち上げ。
+	* 賛同人に八嶋智人、篠井英介ら小劇場出身の俳優が名前を連ねる。
+	* 500円から支援が可能。
+	* 2020年6月5日まで。
+* [演劇支援プロジェクト　SAVE THE THEATRE](https://savethetheatre.zaiko.io)
+	* 公演中止などを強いられた団体や個人、劇場を支援。
+	* 期間限定サイトで舞台作品を有料配信。
+	* 収益の50%を映像提供した団体の収入とし、残りを基金として積み立て。
+	* 演劇、狂言、日本舞踊など幅広い舞台関係者によって立ち上げ。
+	* 原則1作品300円で鑑賞することで支援。気に入った作品には「投げ銭」で上乗せも可。
+	* 2020年5月31日まで。
+
 * [架空の劇場 舞台専用プラットフォーム シアターコンプレックス【舞台を救え】](https://fanbeats.jp/collaboration/theater-complex?fbclid=IwAR2KNbt9_qxnTFcao3aFwdXdlXF8kgTEV4T9oFYXd2rWc6v5hB3S5cSbeuA)
 	* 舞台専用の配信プラットフォーム立ち上げのためのプロジェクト。
 	* ネルケプランニングなどの企業が立ち上げ。
