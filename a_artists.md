@@ -269,11 +269,10 @@ permalink: /artists/
 	* conSept合同会社による公益基金で、賛同人は板垣恭一氏、伊礼彼方氏ら。
 	* 今後の活動に必要な資金を助成。
 	* 現在クラウドファンディング実施中で公募開始は2020年5月末頃を予定。
-* [小劇場支援プロジェクト【ENGEKI HEROES】](https://note.com/stage_ch/n/nb0fc0d87764c?fbclid=IwAR0rLP7esN6uxoGG3lFAf_g-IypAnB67vA3TqphbHTClgtio7vWFq4oNkuY)
-	* 全国の小劇場（キャパ300名以下）が対象。
-	* 参加を希望する劇場は、フォームにて申請。
+* [小劇場エイド基金】](https://motion-gallery.net/projects/shogekijo-aid)
+	* 全国の45箇所の小劇場（キャパ300名以下）が対象。
 	* 参加した劇場は、クラウドファンディングで集まった支援金を参加劇場数で割った額を受け取る。
-	* 当ページはクラウドファンディング立ち上げ前の準備ページ。
+	* 参加を希望する劇場は、[フォーム](https://forms.gle/UhfcYxvFG71DQWaG6)にて申請。
 * [稲盛財団文化芸術支援プログラム](https://www.inamori-f.or.jp/2020/04/28_forarts?fbclid=IwAR3XIEPWAik4Im2AqxNndOB2KYcFx3rd9UNCmtcyqQfzrnD9a_OypAu5btA)
 	* 実演芸術関連団体が対象。（スタッフや企画制作会社も含む）
 	* 2020年3月、4月の2か月間に500万円以上の機会損失があったケースが対象。
