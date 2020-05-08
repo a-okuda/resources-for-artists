@@ -50,7 +50,14 @@ permalink: /supporters/
 * [架空の劇場 舞台専用プラットフォーム シアターコンプレックス【舞台を救え】](https://fanbeats.jp/collaboration/theater-complex?fbclid=IwAR2KNbt9_qxnTFcao3aFwdXdlXF8kgTEV4T9oFYXd2rWc6v5hB3S5cSbeuA)
 	* 舞台専用の配信プラットフォーム立ち上げのためのプロジェクト。
 	* ネルケプランニングなどの企業が立ち上げ。
-	* 2020年5月1日開始。
+	* 2020年6月7日まで。
+
+* [コロナ給付金寄付プロジェクト](https://www.info.public.or.jp/corona-kifu)
+	* 国の特別定額給付金を利用した寄付を呼びかけている。
+	* ①医療、②福祉・教育・子ども、③文化・芸術・スポーツ、④経営困難に追い込まれた中小企業という4つの分野の中から関心高いものを選択して寄付。
+	* 「[Yahoo!ネット募金](https://donation.yahoo.co.jp/promo/covid19/)」または「[コロナ給付金プラットフォーム produced by TRUSTBANK](https://www.furusato-tax.jp/covid19/)」から寄付。
+	* ヤフー（株）、ふるさと納税サイト「ふるさとチョイス」を運営する（株）トラストバンク、（公財）パブリックリソース財団と専門家有志により発足。
+	
 
 ## 署名活動
 * [演劇は生きる力です。演劇緊急支援プロジェクト](https://www.change.org/p/政府-演劇は生きる力です-演劇緊急支援プロジェクト?utm_content=cl_sharecopy_21808360_ja-JP%3Av1&recruiter=1081876089&recruited_by_id=367797f0-8850-11ea-95d1-59891ccab7c3&utm_source=share_petition&utm_medium=copylink&utm_campaign=psf_combo_share_initial&utm_term=psf_combo_share_initial&fbclid=IwAR0kuKNMihhVdPIvsJ0LV-B7NQTMAZGOuTZ5HUj0UIvUxdIV8O9qxD5g4yE)
