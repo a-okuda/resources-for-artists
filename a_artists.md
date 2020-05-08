@@ -269,7 +269,7 @@ permalink: /artists/
 	* conSept合同会社による公益基金で、賛同人は板垣恭一氏、伊礼彼方氏ら。
 	* 今後の活動に必要な資金を助成。
 	* 現在クラウドファンディング実施中で公募開始は2020年5月末頃を予定。
-* [小劇場エイド基金】](https://motion-gallery.net/projects/shogekijo-aid)
+* [小劇場エイド基金](https://motion-gallery.net/projects/shogekijo-aid)
 	* 全国の45箇所の小劇場（キャパ300名以下）が対象。
 	* 参加した劇場は、クラウドファンディングで集まった支援金を参加劇場数で割った額を受け取る。
 	* 参加を希望する劇場は、[フォーム](https://forms.gle/UhfcYxvFG71DQWaG6)にて申請。
