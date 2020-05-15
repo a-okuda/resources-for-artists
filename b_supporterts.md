@@ -68,6 +68,9 @@ permalink: /supporters/
 	* 「[Yahoo!ネット募金](https://donation.yahoo.co.jp/promo/covid19/)」または「[コロナ給付金プラットフォーム produced by TRUSTBANK](https://www.furusato-tax.jp/covid19/)」から寄付。
 	* ヤフー（株）、ふるさと納税サイト「ふるさとチョイス」を運営する（株）トラストバンク、（公財）パブリックリソース財団と専門家有志により発足。
 	
+* [全国小劇場ネットワーク](https://shogekijo-network.jp/activity-4/)
+	* 全国小劇場ネットワークが緊急事態宣言後の劇場の「再開」を具体的に想定し、どう「再開」していくのかを考え実践するためのクラウドファンディングを実施。
+	* 近日中にスタート予定。（2020年5月15日現在）
 
 ## 署名活動
 * [演劇は生きる力です。演劇緊急支援プロジェクト](https://www.change.org/p/政府-演劇は生きる力です-演劇緊急支援プロジェクト?utm_content=cl_sharecopy_21808360_ja-JP%3Av1&recruiter=1081876089&recruited_by_id=367797f0-8850-11ea-95d1-59891ccab7c3&utm_source=share_petition&utm_medium=copylink&utm_campaign=psf_combo_share_initial&utm_term=psf_combo_share_initial&fbclid=IwAR0kuKNMihhVdPIvsJ0LV-B7NQTMAZGOuTZ5HUj0UIvUxdIV8O9qxD5g4yE)
