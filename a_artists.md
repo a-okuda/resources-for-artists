@@ -235,10 +235,11 @@ permalink: /artists/
 	* 家賃等の固定費を支援。
 	* 支給額は中小企業100万円、個人事業主50万円。
 	* 2020年5月31日締切。
-* 大阪府 配信事業支援
-	* 新型コロナウイルス感染拡大防止のために休止している府内の劇場やライブハウスなどが対象。
+* [大阪府 文化芸術活動（無観客ライブ配信）支援事業補助金](http://www.pref.osaka.lg.jp/bunka/shienhojyokin/index.html)
+	* 新型コロナウイルス感染拡大防止のために休止している50人以上収容可能な府内の劇場やライブハウスなどが対象。
 	* 無観客ライブなどの配信事業の立ち上げを支援。
 	* 上限70万円。
+	* 応募期間は2020年7月17日まで。
 
 ### 兵庫
 * [神戸文化支援基金緊急支援助成](http://kobushi-kikin.com/pg99.html?fbclid=IwAR1bReop4icHa97vwT6YepOgm5wxfElzIVNOWv0tuYX7nHghJX8H8MvweNc)
