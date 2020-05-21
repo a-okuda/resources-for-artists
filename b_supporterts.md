@@ -68,9 +68,11 @@ permalink: /supporters/
 	* 「[Yahoo!ネット募金](https://donation.yahoo.co.jp/promo/covid19/)」または「[コロナ給付金プラットフォーム produced by TRUSTBANK](https://www.furusato-tax.jp/covid19/)」から寄付。
 	* ヤフー（株）、ふるさと納税サイト「ふるさとチョイス」を運営する（株）トラストバンク、（公財）パブリックリソース財団と専門家有志により発足。
 	
-* [全国小劇場ネットワーク](https://shogekijo-network.jp/activity-4/)
-	* 全国小劇場ネットワークが緊急事態宣言後の劇場の「再開」を具体的に想定し、どう「再開」していくのかを考え実践するためのクラウドファンディングを実施。
-	* 近日中にスタート予定。（2020年5月15日現在）
+* [全国小劇場ネットワーク 【地域と共に歩む文化拠点】全国の小劇場の「再開」にご支援を](https://readyfor.jp/projects/shogekijo-network)
+	* 全国小劇場ネットワークに加盟する劇場を支援。
+	* 今後運営再開となった折に必要となる資金を集めるためのクラウドファンディング。
+	* 1000円から支援が可能。
+	* 2020年7月31日まで。
 
 ## 署名活動
 * [演劇は生きる力です。演劇緊急支援プロジェクト](https://www.change.org/p/政府-演劇は生きる力です-演劇緊急支援プロジェクト?utm_content=cl_sharecopy_21808360_ja-JP%3Av1&recruiter=1081876089&recruited_by_id=367797f0-8850-11ea-95d1-59891ccab7c3&utm_source=share_petition&utm_medium=copylink&utm_campaign=psf_combo_share_initial&utm_term=psf_combo_share_initial&fbclid=IwAR0kuKNMihhVdPIvsJ0LV-B7NQTMAZGOuTZ5HUj0UIvUxdIV8O9qxD5g4yE)
@@ -80,3 +82,8 @@ permalink: /supporters/
 * [SOSS_save our stage staff](https://www.facebook.com/SOSS.COVID19/)
 	* 関西のステージスタッフが中心となって立ち上げた署名活動。
 	* 各自治体への支援金対象の拡大（休業要請により経済的影響を受けた下請業種への支援金給付）、関連事業者への経済的支援（補助金、協力金）、関係業界へ向けた感染拡大防止のガイドラインの作成を求めている。
+
+## その他
+* [ぴあ［re: START］](https://lp.p.pia.jp/restart/)
+	* [PIA LIVE STREAM](https://w.pia.jp/t/pialivestream/)では、チケットぴあサイトで、オンラインでライブ映像視聴チケットを購入すると、アーティストの収入に繋がる。
+	* [エンタメサポーターチケット](https://w.pia.jp/t/supporterticket)では、チケットぴあサイトで応援したいアーティストの500円〜3000円のサポーターチケットを購入すると、写真やメッセージ入りのスペシャルチケットを受け取れ、それが今後の活動支援に繋がる。
