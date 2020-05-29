@@ -48,7 +48,6 @@ permalink: /supporters/
 	* 3000円から支援が可能で、税制上の優遇措置が受けられる。
 	* 2020年8月25日まで。
 * [小劇場エイド基金](https://motion-gallery.net/projects/shogekijo-aid?fbclid=IwAR2v4YVK3WYIhOrAySLHIPydeoQZ-JstRJZ04tBhmRFDHqLoT2EdxDHXawQ)
-	* 「小劇場支援プロジェクト【ENGEKI HEROES】」が情報をアップデート。
 	* 日本全国の52の小劇場（2020年5月24日現在）を支援。
 	* ステージチャンネル、サンモールスタジオ、MOTION GALLERY代表を含むプロデューサー有志で立ち上げ。
 	* 賛同人に八嶋智人、篠井英介ら小劇場出身の俳優が名前を連ねる。
