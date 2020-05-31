@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "タイトル"
+title: "舞台芸術関係者が個人で応募できる民間支援の締切迫っています"
 date: 2020-05-31
 categories:
 ---
