@@ -40,17 +40,6 @@ permalink: /supporters/
 	* 賛同人は演出家・板垣恭一氏、俳優・伊礼彼方氏ら。
 	* 3000円から支援が可能で、税制上の優遇措置が受けられる。
 	* 2020年8月25日まで。
-* [小劇場エイド基金](https://motion-gallery.net/projects/shogekijo-aid?fbclid=IwAR2v4YVK3WYIhOrAySLHIPydeoQZ-JstRJZ04tBhmRFDHqLoT2EdxDHXawQ)
-	* 日本全国の52の小劇場（2020年5月24日現在）を支援。
-	* ステージチャンネル、サンモールスタジオ、MOTION GALLERY代表を含むプロデューサー有志で立ち上げ。
-	* 賛同人に八嶋智人、篠井英介ら小劇場出身の俳優が名前を連ねる。
-	* 500円から支援が可能。
-	* 2020年6月5日まで。
-
-* [架空の劇場 舞台専用プラットフォーム シアターコンプレックス【舞台を救え】](https://fanbeats.jp/collaboration/theater-complex?fbclid=IwAR2KNbt9_qxnTFcao3aFwdXdlXF8kgTEV4T9oFYXd2rWc6v5hB3S5cSbeuA)
-	* 舞台専用の配信プラットフォーム立ち上げのためのプロジェクト。
-	* ネルケプランニングなどの企業が立ち上げ。
-	* 2020年6月7日まで。
 
 * [コロナ給付金寄付プロジェクト](https://www.info.public.or.jp/corona-kifu)
 	* 国の特別定額給付金を利用した寄付を呼びかけている。
@@ -63,6 +52,13 @@ permalink: /supporters/
 	* 今後運営再開となった折に必要となる資金を集めるためのクラウドファンディング。
 	* 100円から寄付が可能で、税制上の優遇措置が受けられる。
 	* 2020年7月31日まで。
+
+* [企業メセナ協議会 芸術・文化による災害復興支援ファンド「GBFund」](https://culfun.mecenat.or.jp/grant/gbfund/h.html)
+	* 芸術文化活動への損害に対して緊急的に支援。
+	* 新型コロナの影響で損失を受けた団体・個人を支援。
+	* 芸術文化界を平常・活性化する目的の芸術文化活動を支援。
+	* 活動中断により損失を受けた芸術文化に携わる職種の人材育成活動を支援。
+	* 税制上の優遇措置が受けられる。
 
 * [“SaveArts”プロジェクト](https://readyfor.jp/projects/SaveArts)**【受付終了】**
 	* コロナ禍で危機的状況に陥っている芸術団体・アーティストを支援。
@@ -83,6 +79,16 @@ permalink: /supporters/
 	* 収益の50%を映像提供した団体の収入とし、残りを基金として積み立て。
 	* 演劇、狂言、日本舞踊など幅広い舞台関係者によって立ち上げ。
 	* 原則1作品300円で鑑賞することで支援。気に入った作品には「投げ銭」で上乗せも可。
+
+* [小劇場エイド基金](https://motion-gallery.net/projects/shogekijo-aid?fbclid=IwAR2v4YVK3WYIhOrAySLHIPydeoQZ-JstRJZ04tBhmRFDHqLoT2EdxDHXawQ)**【受付終了】**
+	* 日本全国の52の小劇場（2020年5月24日現在）を支援。
+	* ステージチャンネル、サンモールスタジオ、MOTION GALLERY代表を含むプロデューサー有志で立ち上げ。
+	* 賛同人に八嶋智人、篠井英介ら小劇場出身の俳優が名前を連ねる。
+	* 500円から支援が可能。
+* [架空の劇場 舞台専用プラットフォーム シアターコンプレックス【舞台を救え】](https://fanbeats.jp/collaboration/theater-complex?fbclid=IwAR2KNbt9_qxnTFcao3aFwdXdlXF8kgTEV4T9oFYXd2rWc6v5hB3S5cSbeuA)**【受付終了】**
+	* 舞台専用の配信プラットフォーム立ち上げのためのプロジェクト。
+	* ネルケプランニング松田誠氏らが立ち上げ。
+	
 
 ## 署名活動
 * [演劇は生きる力です。演劇緊急支援プロジェクト](https://www.change.org/p/政府-演劇は生きる力です-演劇緊急支援プロジェクト?utm_content=cl_sharecopy_21808360_ja-JP%3Av1&recruiter=1081876089&recruited_by_id=367797f0-8850-11ea-95d1-59891ccab7c3&utm_source=share_petition&utm_medium=copylink&utm_campaign=psf_combo_share_initial&utm_term=psf_combo_share_initial&fbclid=IwAR0kuKNMihhVdPIvsJ0LV-B7NQTMAZGOuTZ5HUj0UIvUxdIV8O9qxD5g4yE)
